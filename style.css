@@ -1,0 +1,39 @@
+h1 {
+	color:#6495ED;
+}
+
+.w3s {
+	color: #A52A2A;
+}
+
+body {
+	background-color:#F8F8FF;
+	margin: 10px 20px;
+}
+
+table {
+	border-collapse: collapse;
+	width: 60%;
+}
+
+th, td {
+	border: 1px solid #dddddd;
+	text-align: left;
+	padding: 8px;
+}
+
+aside {
+	background-color: #B0C4DE;
+	font-style: italic;
+	font-size: 15px;
+	float: right;
+	width: 22%;
+	padding: 10px;
+	margin: 50px 0 0 20px;
+}
+
+legend {
+
+	font-size: 16px;
+	
+}
