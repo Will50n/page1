@@ -1,5 +1,10 @@
+body {
+	font-family: verdana, sans-serif;
+}
+
 h1 {
 	color:#6495ED;
+	font-family: georgia;
 }
 
 .w3s {
@@ -30,6 +35,16 @@ aside {
 	width: 22%;
 	padding: 10px;
 	margin: 50px 0 0 20px;
+}
+
+fieldset {
+	width: 90%;
+	margin: auto;
+	margin-top: 20px;
+}
+
+form {
+	margin-bottom: 20px;
 }
 
 legend {
