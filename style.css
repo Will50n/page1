@@ -4,6 +4,33 @@ body {
 	margin: 15px 50px;
 }
 
+ul{
+	list-style-type: none;
+	background-color: #6495ED;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+
+
+li {
+	float: left;
+}
+
+li a{ 
+	display: block;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+	padding: 15px;	
+}
+
+li a:hover{
+	background-color: white;
+	color: #6495ED;
+}
+
+
 h1 {
 	color:#6495ED;
 	font-family: georgia;
@@ -17,6 +44,7 @@ table {
 	border-collapse: collapse;
 	border: 1px solid #dddddd;
 	width: 70%;
+	min-width: 551px;
 	text-align: center;
 }
 
